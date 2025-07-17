@@ -26,4 +26,7 @@ The Vindra Store wants to create an annual sales report for 2022.so that ,the ow
 ## Dashboard
 <img width="1385" height="613" alt="Screenshot 2025-07-17 112251" src="https://github.com/user-attachments/assets/196ddfa5-91c1-4fe6-a5a0-93541cbc51ac" />
 
+## Project Insight
+.
+
 
