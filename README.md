@@ -5,8 +5,8 @@ The Vindra Store wants to create an annual sales report for 2022.so that ,the ow
 - <a href="https://github.com/Sahilali2003/Vindra-Store-Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
  ## Questions(KPIs)
- compare the sales and orders using single charts.
- which month got the highest sales and orders?.
+ -  compare the sales and orders using single charts.
+ -  which month got the highest sales and orders?.
  who purchased more-Men or Women?.
  what are different order status in 2025.
  list top 10 states contibution the states?.
