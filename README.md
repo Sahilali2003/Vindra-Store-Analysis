@@ -1,6 +1,6 @@
 # Vindra-Store-Analysis(Interactive Dashboard creation using MS Excel)
 ## Project Objective 
-The Vindra Store wants to create an annual sales report for 2022.so that ,the owner of the vindra store can understand their customers and grow sales in 2026 & 2027.
+The Vindra Store wants to create an annual sales report for 2025.so that ,the owner of the vindra store can understand their customers and grow sales in 2026 & 2027.
 ## Dataset used 
 - <a href="https://github.com/Sahilali2003/Vindra-Store-Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
